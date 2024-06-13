@@ -1,0 +1,35 @@
+body{
+    background-color:hsl(212, 45%, 89%);
+     font-family: "Outfit", sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container
+{
+    width: 340px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    margin-top: 300px;
+    height: 500px;
+}
+.para{
+    text-align: center;
+    font-weight: 400;
+    margin-top:10px;
+    font-size:15px;
+}
+.heading{
+    text-align: center;
+    font-weight: 700;
+    margin-top:10px;
+}
+.image{
+    width: 300px;
+    margin-top:20px;
+   
+    
+    border-radius:10px;
+}
